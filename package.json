@@ -1,0 +1,21 @@
+{
+    "name": "dimmed-vibrant",
+    "displayName": "dimmed-vibrant",
+    "description": "My Color Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dimmed Vibrant",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dimmed-vibrant-color-theme.json"
+            }
+        ]
+    }
+}
