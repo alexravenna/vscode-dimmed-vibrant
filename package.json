@@ -1,6 +1,6 @@
 {
-    "name": "dimmed-vibrant",
-    "displayName": "dimmed-vibrant",
+    "name": "vscode-dimmed-vibrant",
+    "displayName": "Monokai Dimmed Vibrant",
     "description": "VS Code color theme based on the editor colors of Monokai Dimmed and the text colors of Monokai Vibrant",
     "version": "0.0.1",
     "engines": {
@@ -14,7 +14,7 @@
             {
                 "label": "Dimmed Vibrant",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dimmed-vibrant-color-theme.json"
+                "path": "./themes/monokai-dimmed-vibrant-color-theme.json"
             }
         ]
     }
