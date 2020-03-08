@@ -1,7 +1,7 @@
 {
     "name": "monokai-dimmed-vibrant",
     "displayName": "Monokai Dimmed+Vibrant",
-    "description": "A color theme based on the editor colors of Monokai Dimmed and the text colors of Monokai Vibrant",
+    "description": "A color theme based on the gray-tone editor colors of Monokai Dimmed and the vibrant text colors of Monokai Vibrant",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.42.0"
@@ -19,10 +19,17 @@
         ]
     },
     "galleryBanner": {
-        "color": "#1E1E1E"
+        "color": "#1E1E1E",
+        "theme": "dark"
     },
+    "author": "Alex Ravenna <alex.n.ravenna@gmail.com>",
+    "publisher": "alexravenna",
+    "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/alexravenna/vscode-dimmed-vibrant"
+        "url": "https://github.com/alexravenna/vscode-dimmed-vibrant.git"
+    },
+    "bugs": {
+        "url": "https://github.com/alexravenna/vscode-dimmed-vibrant/issues"
     }
 }
