@@ -1,7 +1,7 @@
 {
     "name": "dimmed-vibrant",
     "displayName": "dimmed-vibrant",
-    "description": "My Color Theme",
+    "description": "VS Code color theme based on the editor colors of Monokai Dimmed and the text colors of Monokai Vibrant",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.42.0"
