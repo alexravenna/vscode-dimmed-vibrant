@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "dimmed-vibrant" extension will be documented in this file.
+Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [1.0.0]
 
 - Initial release
