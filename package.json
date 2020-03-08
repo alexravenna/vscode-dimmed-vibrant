@@ -18,6 +18,9 @@
             }
         ]
     },
+    "galleryBanner": {
+        "color": "#1E1E1E"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/alexravenna/vscode-dimmed-vibrant"
