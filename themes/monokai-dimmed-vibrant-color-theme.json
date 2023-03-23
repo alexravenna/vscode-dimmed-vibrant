@@ -29,6 +29,7 @@
 		"list.inactiveSelectionBackground": "#4e4e4e",
 		"menu.background": "#272727",
 		"menu.foreground": "#cccccc",
+		"menu.selectionBorder": "#e58520",
 		"minimap.selectionHighlight": "#676b7180",
 		"panelTitle.activeForeground": "#ffffff",
 		"peekView.border": "#3655b5",
@@ -44,6 +45,7 @@
 		"tab.inactiveForeground": "#d8d8d8",
 		"terminal.ansiWhite": "#ffffff",
 		"titleBar.activeBackground": "#505050",
+		"widget.shadow": "#e58520"
 	},
 	"tokenColors": [
 		{
