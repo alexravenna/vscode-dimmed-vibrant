@@ -2,6 +2,12 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.0.2] - 2023-06-10
+
+### Fixed
+
+- Update VS Code compatibility version
+
 ## [1.0.1] - 2023-06-10
 
 ### Added
