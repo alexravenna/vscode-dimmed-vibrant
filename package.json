@@ -4,7 +4,7 @@
     "description": "A color theme based on the gray-tone editor colors of Monokai Dimmed and the vibrant text colors of Monokai Vibrant",
     "version": "1.0.1",
     "engines": {
-        "vscode": "^1.42.0"
+        "vscode": "^1.79.0"
     },
     "categories": [
         "Themes"
