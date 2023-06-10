@@ -1,3 +1,7 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.husky
+node_modules
+commitlint.config.js
+package-lock.json
