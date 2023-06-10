@@ -2,7 +2,7 @@
     "name": "monokai-dimmed-vibrant",
     "displayName": "Monokai Dimmed+Vibrant",
     "description": "A color theme based on the gray-tone editor colors of Monokai Dimmed and the vibrant text colors of Monokai Vibrant",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.79.0"
     },
