@@ -2,6 +2,12 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
+## [1.0.3] - 2023-06-17
+
+### Fixed
+
+- Fix publishing Action by changing readme badge provider
+
 ## [1.0.2] - 2023-06-10
 
 ### Fixed
