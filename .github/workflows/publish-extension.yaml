@@ -3,9 +3,9 @@ name: CI
 on:
   push:
     branches:
-      - "*"
-    # tags:
-    #   - "*"
+      - "main"
+    tags:
+      - "*v"
 
 jobs:
   build:
