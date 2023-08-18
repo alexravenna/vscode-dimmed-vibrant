@@ -4,7 +4,7 @@
 [![Installs badge](https://img.shields.io/visual-studio-marketplace/i/alexravenna.monokai-dimmed-vibrant)](https://marketplace.visualstudio.com/items?itemName=alexravenna.monokai-dimmed-vibrant)
 [![Downloads badge](https://img.shields.io/visual-studio-marketplace/d/alexravenna.monokai-dimmed-vibrant)](https://marketplace.visualstudio.com/items?itemName=alexravenna.monokai-dimmed-vibrant)
 
-Test it out on the [Theme Tester Playground](https://vscode.dev/theme/alexravenna.monokai-dimmed-vibrant/) or see more previews on [VS Code Themes](https://vscodethemes.com/e/alexravenna.monokai-dimmed-vibrant/monokai-dimmedvibrant).
+Test it out on the [Theme Tester Playground](https://vscode.dev/theme/alexravenna.monokai-dimmed-vibrant/) or see previews for multiple programming languages on [VS Code Themes](https://vscodethemes.com/e/alexravenna.monokai-dimmed-vibrant/monokai-dimmedvibrant).
 
 ![Screenshot](screenshot.png)
 
