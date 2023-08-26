@@ -7,6 +7,7 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - Publishing to the Open VSX Registry with the GitHub Action [HaaLeo/publish-vscode-extension](https://github.com/HaaLeo/publish-vscode-extension).
+- Automatic publishing of a GitHub Release upon tagging of a new version using [softprops/action-gh-release](https://github.com/softprops/action-gh-release).
 - MIT license.
 - Links in the readme for previewing this theme.
 
