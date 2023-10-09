@@ -3,8 +3,12 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "streetsidesoftware.code-spell-checker"
-            ]
+				"streetsidesoftware.code-spell-checker",
+				"davidanson.vscode-markdownlint",
+				"fabiospampinato.vscode-open-in-marketplace",
+				"robertohuertasm.vscode-marketplace-preview",
+				"vivaxy.vscode-conventional-commits"
+			]
         }
     }
 }
