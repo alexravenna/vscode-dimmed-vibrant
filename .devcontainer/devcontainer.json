@@ -3,12 +3,13 @@
     "customizations": {
         "vscode": {
             "extensions": [
-				"streetsidesoftware.code-spell-checker",
-				"davidanson.vscode-markdownlint",
-				"fabiospampinato.vscode-open-in-marketplace",
-				"robertohuertasm.vscode-marketplace-preview",
-				"vivaxy.vscode-conventional-commits"
-			]
+                "streetsidesoftware.code-spell-checker",
+                "davidanson.vscode-markdownlint",
+                "vivaxy.vscode-conventional-commits",
+                "eamodio.gitlens",
+                "GitHub.codespaces",
+                "github.vscode-github-actions"
+            ]
         }
     }
 }
