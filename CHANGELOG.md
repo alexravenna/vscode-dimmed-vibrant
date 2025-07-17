@@ -8,6 +8,11 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
 - Theme icon
 
+### Changed
+
+- Updated all Actions used in publishing workflow to current major versions
+- Updated Node.js version used in publishing workflow to 24
+
 ## [1.0.4] - 2023-08-26
 
 ### Added
