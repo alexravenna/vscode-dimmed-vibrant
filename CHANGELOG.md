@@ -2,6 +2,12 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
+## [Unreleased]
+
+### Added
+
+- Theme icon
+
 ## [1.0.4] - 2023-08-26
 
 ### Added
