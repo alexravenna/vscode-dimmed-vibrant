@@ -9,6 +9,7 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 - Theme icon
 - Added badges for Open VSX Registry to readme
 - Added VS Code extension recommendation for [Marketplace Preview](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-marketplace-preview)
+- Dependabot configuration for GitHub Actions and npm ecosystems
 
 ### Changed
 
