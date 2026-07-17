@@ -7,11 +7,13 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 
 - Theme icon
+- Added badges for Open VSX Registry to readme
 
 ### Changed
 
 - Updated all Actions used in publishing workflow to current major versions
 - Updated Node.js version used in publishing workflow to 24
+- Replaced readme badges from [shields.io](https://shields.io) with ones from [badgen.net](https://badgen.net)
 
 ## [1.0.4] - 2023-08-26
 
