@@ -8,6 +8,7 @@
         "GitHub.codespaces",
         "github.vscode-github-actions",
         "ms-vscode-remote.remote-containers",
-        "GitHub.vscode-pull-request-github"
+        "GitHub.vscode-pull-request-github",
+        "redhat.vscode-yaml"
     ]
 }
