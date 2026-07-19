@@ -14,5 +14,6 @@
                 "GitHub.vscode-pull-request-github"
             ]
         }
-    }
+    },
+    "postCreateCommand": "npm install"
 }
