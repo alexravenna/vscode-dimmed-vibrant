@@ -2,14 +2,15 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
-## Unreleased
+## [Unreleased]
 
 ### Added
 
 - Theme icon
-- Added badges for Open VSX Registry to readme
-- Added VS Code extension recommendation for [Marketplace Preview](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-marketplace-preview)
+- Badges for Open VSX Registry to readme
+- VS Code extension recommendations
 - Dependabot configuration for GitHub Actions and npm ecosystems
+- [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json) for remote development
 
 ### Changed
 
