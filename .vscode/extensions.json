@@ -2,8 +2,12 @@
     "recommendations": [
         "streetsidesoftware.code-spell-checker",
         "davidanson.vscode-markdownlint",
+        "vivaxy.vscode-conventional-commits",
         "fabiospampinato.vscode-open-in-marketplace",
         "robertohuertasm.vscode-marketplace-preview",
-        "vivaxy.vscode-conventional-commits"
+        "GitHub.codespaces",
+        "github.vscode-github-actions",
+        "ms-vscode-remote.remote-containers",
+        "GitHub.vscode-pull-request-github"
     ]
 }
