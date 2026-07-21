@@ -2,6 +2,33 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
+[Semantic versioning](https://semver.org) is followed to the best of my ability.
+
+## [2.0.0] - 2026-07-21
+
+### Added
+
+- Theme icon
+- Badges for Open VSX Registry to readme
+- VS Code extension recommendations
+- Dependabot configuration for GitHub Actions and npm ecosystems
+- [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json)
+for remote development
+- VS Marketplace tags/keywords
+
+### Changed
+
+- Rebranded theme name from "Monokai Dimmed+Vibrant" to just "Dimmed+Vibrant"
+- Extended .vscodeignore to trim out files irrelevant to packaged theme
+- Updated all Actions used in publishing workflow to current major versions
+- Updated Node.js version used in publishing workflow to 24
+- Replaced readme badges from [shields.io](https://shields.io) with ones from [badgen.net](https://badgen.net)
+- Updated deprecated properties for `editorIndentGuide`
+
+### Security
+
+- Update npm dependencies
+
 ## [1.0.4] - 2023-08-26
 
 ### Added

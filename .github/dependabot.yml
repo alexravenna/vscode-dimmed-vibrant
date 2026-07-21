@@ -1,0 +1,41 @@
+# yaml-language-server: $schema=https://json.schemastore.org/dependabot-2.0.json
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/.github/workflows"
+    target-branch: "develop"
+    schedule:
+      interval: "weekly"
+    groups:
+      maintenance:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: "npm"
+    directory: "/"
+    target-branch: "develop"
+    schedule:
+      interval: "weekly"
+    groups:
+      maintenance:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
+
+  - package-ecosystem: "devcontainers"
+    directory: "/.devcontainer"
+    target-branch: "develop"
+    schedule:
+      interval: "weekly"
+    groups:
+      maintenance:
+        patterns:
+          - "*"
+        update-types:
+          - "minor"
+          - "patch"
