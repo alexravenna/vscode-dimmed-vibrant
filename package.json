@@ -7,7 +7,7 @@
     "vscode": "^1.79.0"
   },
   "categories": [
-    "Themes"    
+    "Themes"
   ],
   "keywords": [
     "dimmed",
@@ -16,6 +16,11 @@
     "theme",
     "color theme"
   ],
+  "scripts": {
+    "package": "vsce package",
+    "publish:marketplace": "vsce publish",
+    "publish:openvsx": "ovsx publish"
+  },
   "contributes": {
     "themes": [
       {
@@ -47,6 +52,8 @@
   "devDependencies": {
     "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^21.2.0",
-    "husky": "^9.1.7"
+    "@vscode/vsce": "^3.6.0",
+    "husky": "^9.1.7",
+    "ovsx": "^1.0.2"
   }
 }
