@@ -9,6 +9,13 @@
   "categories": [
     "Themes"    
   ],
+  "keywords": [
+    "dimmed",
+    "vibrant",
+    "monokai",
+    "theme",
+    "color theme"
+  ],
   "contributes": {
     "themes": [
       {
@@ -29,7 +36,7 @@
     "url": "https://github.com/alexravenna"
   },
   "publisher": "alexravenna",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexravenna/vscode-dimmed-vibrant.git"

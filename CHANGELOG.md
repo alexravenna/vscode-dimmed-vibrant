@@ -14,6 +14,7 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 - Dependabot configuration for GitHub Actions and npm ecosystems
 - [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json)
 for remote development
+- VS Marketplace tags/keywords
 
 ### Changed
 
