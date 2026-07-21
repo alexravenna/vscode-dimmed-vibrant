@@ -28,6 +28,7 @@ for remote development
 ### Security
 
 - Update npm dependencies
+- Update GitHub Actions used
 
 ## [1.0.4] - 2023-08-26
 
