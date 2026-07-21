@@ -1,4 +1,4 @@
-# Monokai Dimmed+Vibrant
+# Dimmed+Vibrant
 
 [![VS Marketplace Version Badge](https://badgen.net/vs-marketplace/v/alexravenna.monokai-dimmed-vibrant?label=Visual%20Studio%20Marketplace%20Version)](https://marketplace.visualstudio.com/items?itemName=alexravenna.monokai-dimmed-vibrant)
 [![VS Marketplace Downloads Badge](https://badgen.net/vs-marketplace/d/alexravenna.monokai-dimmed-vibrant?label=Visual%20Studio%20Marketplace%20Downloads)](https://marketplace.visualstudio.com/items?itemName=alexravenna.monokai-dimmed-vibrant)
