@@ -10,7 +10,8 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 - Badges for Open VSX Registry to readme
 - VS Code extension recommendations
 - Dependabot configuration for GitHub Actions and npm ecosystems
-- [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json) for remote development
+- [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json)
+for remote development
 
 ### Changed
 
@@ -18,6 +19,10 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 - Updated Node.js version used in publishing workflow to 24
 - Replaced readme badges from [shields.io](https://shields.io) with ones from [badgen.net](https://badgen.net)
 - Updated deprecated properties for `editorIndentGuide`
+
+### Security
+
+- Update npm dependencies
 
 ## [1.0.4] - 2023-08-26
 
