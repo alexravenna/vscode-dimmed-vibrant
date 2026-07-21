@@ -18,6 +18,7 @@ for remote development
 ### Changed
 
 - Rebranded theme name from "Monokai Dimmed+Vibrant" to just "Dimmed+Vibrant"
+- Extended .vscodeignore to trim out files irrelevant to packaged theme
 - Updated all Actions used in publishing workflow to current major versions
 - Updated Node.js version used in publishing workflow to 24
 - Replaced readme badges from [shields.io](https://shields.io) with ones from [badgen.net](https://badgen.net)
