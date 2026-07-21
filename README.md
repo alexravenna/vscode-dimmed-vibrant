@@ -6,6 +6,10 @@
 ![OpenVSX Registry Version Badge](https://badgen.net/open-vsx/v/alexravenna/monokai-dimmed-vibrant?label=Open%20VSX%20Registry%20Version)
 ![OpenVSX Registry Downloads Badge](https://badgen.net/open-vsx/d/alexravenna/monokai-dimmed-vibrant?label=Open%20VSX%20Registry%20Downloads)
 
+![License](https://badgen.net/github/license/alexravenna/vscode-dimmed-vibrant)
+![Releases](https://badgen.net/github/releases/alexravenna/vscode-dimmed-vibrant)
+![Dependabot status](https://badgen.net/github/dependabot/alexravenna/vscode-dimmed-vibrant)
+
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/alexravenna/vscode-dimmed-vibrant)
 
 Test it out on the [Theme Tester Playground](https://vscode.dev/theme/alexravenna.monokai-dimmed-vibrant/)
