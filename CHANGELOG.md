@@ -2,7 +2,9 @@
 
 Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
-## [Unreleased]
+[Semantic versioning](https://semver.org) is followed to the best of my ability.
+
+## [2.0.0] - 2026-07-21
 
 ### Added
 
@@ -12,9 +14,12 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 - Dependabot configuration for GitHub Actions and npm ecosystems
 - [Devcontainer](https://containers.dev) [configuration](/.devcontainer/devcontainer.json)
 for remote development
+- VS Marketplace tags/keywords
 
 ### Changed
 
+- Rebranded theme name from "Monokai Dimmed+Vibrant" to just "Dimmed+Vibrant"
+- Extended .vscodeignore to trim out files irrelevant to packaged theme
 - Updated all Actions used in publishing workflow to current major versions
 - Updated Node.js version used in publishing workflow to 24
 - Replaced readme badges from [shields.io](https://shields.io) with ones from [badgen.net](https://badgen.net)
@@ -23,6 +28,7 @@ for remote development
 ### Security
 
 - Update npm dependencies
+- Update GitHub Actions used
 
 ## [1.0.4] - 2023-08-26
 

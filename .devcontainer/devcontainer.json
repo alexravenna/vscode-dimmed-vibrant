@@ -16,5 +16,5 @@
             ]
         }
     },
-    "postCreateCommand": "npm install"
+    "postCreateCommand": "npm install && npm install -g @vscode/vsce ovsx"
 }

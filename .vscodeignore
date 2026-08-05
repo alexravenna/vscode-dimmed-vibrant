@@ -1,7 +1,10 @@
-.vscode/**
-.vscode-test/**
+.agents
+.devcontainer
+.github
 .gitignore
 .husky
+.vscode/**
+.vscode-test/**
 node_modules
 commitlint.config.js
 package-lock.json

@@ -1,18 +1,25 @@
 {
-  "name": "monokai-dimmed-vibrant",
-  "displayName": "Monokai Dimmed+Vibrant",
+  "name": "dimmed-vibrant",
+  "displayName": "Dimmed+Vibrant",
   "description": "A color theme based on the gray-tone editor colors of Monokai Dimmed and the vibrant text colors of Monokai Vibrant",
-  "version": "1.0.4",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.79.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dimmed",
+    "vibrant",
+    "monokai",
+    "theme",
+    "color theme"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Dimmed+Vibrant",
+        "label": "Dimmed+Vibrant",
         "uiTheme": "vs-dark",
         "path": "./themes/monokai-dimmed-vibrant-color-theme.json"
       }
@@ -29,7 +36,7 @@
     "url": "https://github.com/alexravenna"
   },
   "publisher": "alexravenna",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "type": "git",
     "url": "https://github.com/alexravenna/vscode-dimmed-vibrant.git"
@@ -40,6 +47,13 @@
   "devDependencies": {
     "@commitlint/cli": "^21.2.1",
     "@commitlint/config-conventional": "^21.2.0",
-    "husky": "^9.1.7"
+    "@vscode/vsce": "^3.6.0",
+    "husky": "^9.1.7",
+    "ovsx": "^1.0.2"
+  },
+  "scripts": {
+    "package": "vsce package",
+    "publish:marketplace": "vsce publish",
+    "publish:openvsx": "ovsx publish"
   }
 }
