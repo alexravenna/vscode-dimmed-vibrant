@@ -15,7 +15,11 @@
 A dark color theme based on the gray-tone editor colors of the built-in Monokai
 Dimmed theme and the vibrant text colors of [Monokai Vibrant](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant).
 
-![Screenshot](screenshot.png)
+Version 2 in the VS Code modern UI (first available in [version 1.129](https://code.visualstudio.com/updates/v1_129#_modern-ui-preview-experimental)):
+![Screenshot of version 2 in the VS Code modern UI](screenshot_v2_new_vscode.png)
+
+Version 1 in the original VS Code editor:  
+![Screenshot of version 1 in the original VS Code UI](screenshot_v1.png)
 
 Test it out on the [Theme Tester Playground](https://vscode.dev/theme/alexravenna.monokai-dimmed-vibrant/)
 or see previews for multiple programming languages on [VS Code Themes](https://vscodethemes.com/e/alexravenna.monokai-dimmed-vibrant/monokai-dimmedvibrant).

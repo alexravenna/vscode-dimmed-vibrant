@@ -6,6 +6,10 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+### Added
+
+- Screenshot of version 2 in the modern VS Code UI
+
 ### Changed
 
 - Removed italicization of keywords
