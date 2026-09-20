@@ -4,6 +4,12 @@ Structured according to [Keep a Changelog](http://keepachangelog.com/).
 
 [Semantic versioning](https://semver.org) is followed to the best of my ability.
 
+## [Unreleased]
+
+### Changed
+
+- Removed italicization of keywords
+
 ## [2.0.0] - 2026-07-21
 
 ### Added

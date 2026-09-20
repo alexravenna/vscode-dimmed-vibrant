@@ -3,6 +3,7 @@
 .github
 .gitignore
 .husky
+.markdownlint.jsonc
 .vscode/**
 .vscode-test/**
 node_modules
