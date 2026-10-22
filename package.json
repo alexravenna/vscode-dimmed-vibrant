@@ -45,11 +45,11 @@
     "url": "https://github.com/alexravenna/vscode-dimmed-vibrant/issues"
   },
   "devDependencies": {
-    "@commitlint/cli": "^21.2.3",
+    "@commitlint/cli": "^21.2.4",
     "@commitlint/config-conventional": "^21.2.0",
     "@vscode/vsce": "^4.0.0",
     "husky": "^9.1.7",
-    "ovsx": "^1.2.0"
+    "ovsx": "^1.3.0"
   },
   "scripts": {
     "package": "vsce package",
